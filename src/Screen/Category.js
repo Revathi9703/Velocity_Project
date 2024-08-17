@@ -13,6 +13,7 @@ const Category = () => {
   const [filteredData, setFilteredData] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
 
+  
   useEffect(() => {
     const allUsers = data2.categories.flatMap((category) => category.people);
     setData(allUsers);
