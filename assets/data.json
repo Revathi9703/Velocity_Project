@@ -1,0 +1,144 @@
+{
+  "categories": [
+    {
+      "category": "Astrologer",
+      "categoryImage": "https://randomuser.me/api/portraits/women/1.jpg",
+      "people": [
+        {
+          "name": "John Doe",
+          "profileImage": "https://randomuser.me/api/portraits/men/1.jpg",
+          "countryFlag": "https://flagcdn.com/w320/us.png"
+        },
+        {
+          "name": "Jane Smith",
+          "profileImage": "https://randomuser.me/api/portraits/women/1.jpg",
+          "countryFlag": "https://flagcdn.com/w320/gb.png"
+        },
+        {
+          "name": "Emily Davis",
+          "profileImage": "https://randomuser.me/api/portraits/women/3.jpg",
+          "countryFlag": "https://flagcdn.com/w320/fr.png"
+        },
+        {
+          "name": "Michael Johnson",
+          "profileImage": "https://randomuser.me/api/portraits/men/4.jpg",
+          "countryFlag": "https://flagcdn.com/w320/de.png"
+        },
+        {
+          "name": "Liam Brown",
+          "profileImage": "https://randomuser.me/api/portraits/men/5.jpg",
+          "countryFlag": "https://flagcdn.com/w320/it.png"
+        }
+      ]
+    },
+    {
+      "category": "Makeup",
+      "categoryImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "people": [
+        {
+          "name": "Alice Johnson",
+          "profileImage": "https://randomuser.me/api/portraits/women/2.jpg",
+          "countryFlag": "https://flagcdn.com/w320/ca.png"
+        },
+        {
+          "name": "Sophia Martinez",
+          "profileImage": "https://randomuser.me/api/portraits/women/4.jpg",
+          "countryFlag": "https://flagcdn.com/w320/es.png"
+        },
+        {
+          "name": "Mia Garcia",
+          "profileImage": "https://randomuser.me/api/portraits/women/6.jpg",
+          "countryFlag": "https://flagcdn.com/w320/au.png"
+        },
+        {
+          "name": "Olivia Wilson",
+          "profileImage": "https://randomuser.me/api/portraits/women/7.jpg",
+          "countryFlag": "https://flagcdn.com/w320/nz.png"
+        },
+        {
+          "name": "Ethan Harris",
+          "profileImage": "https://randomuser.me/api/portraits/men/6.jpg",
+          "countryFlag": "https://flagcdn.com/w320/za.png"
+        }
+      ]
+    },
+    {
+      "category": "Mehandi",
+      "categoryImage": "https://randomuser.me/api/portraits/women/5.jpg",
+      "people": [
+        {
+          "name": "Ravi Kumar",
+          "profileImage": "https://randomuser.me/api/portraits/men/2.jpg",
+          "countryFlag": "https://flagcdn.com/w320/in.png"
+        },
+        {
+          "name": "Aarti Patel",
+          "profileImage": "https://randomuser.me/api/portraits/women/5.jpg",
+          "countryFlag": "https://flagcdn.com/w320/in.png"
+        },
+        {
+          "name": "Sanjay Singh",
+          "profileImage": "https://randomuser.me/api/portraits/men/3.jpg",
+          "countryFlag": "https://flagcdn.com/w320/in.png"
+        },
+        {
+          "name": "Meera Rani",
+          "profileImage": "https://randomuser.me/api/portraits/women/8.jpg",
+          "countryFlag": "https://flagcdn.com/w320/in.png"
+        }
+      ]
+    },
+    {
+      "category": "Photographer",
+      "categoryImage": "https://randomuser.me/api/portraits/men/3.jpg",
+      "people": [
+        {
+          "name": "Michael Brown",
+          "profileImage": "https://randomuser.me/api/portraits/men/3.jpg",
+          "countryFlag": "https://flagcdn.com/w320/au.png"
+        },
+        {
+          "name": "Olivia Wilson",
+          "profileImage": "https://randomuser.me/api/portraits/women/6.jpg",
+          "countryFlag": "https://flagcdn.com/w320/nz.png"
+        },
+        {
+          "name": "Ethan Harris",
+          "profileImage": "https://randomuser.me/api/portraits/men/6.jpg",
+          "countryFlag": "https://flagcdn.com/w320/za.png"
+        },
+        {
+          "name": "Lucas Scott",
+          "profileImage": "https://randomuser.me/api/portraits/men/7.jpg",
+          "countryFlag": "https://flagcdn.com/w320/us.png"
+        }
+      ]
+    },
+    {
+      "category": "Chef",
+      "categoryImage": "https://randomuser.me/api/portraits/men/8.jpg",
+      "people": [
+        {
+          "name": "Julia Roberts",
+          "profileImage": "https://randomuser.me/api/portraits/women/9.jpg",
+          "countryFlag": "https://flagcdn.com/w320/us.png"
+        },
+        {
+          "name": "Antonio Banderas",
+          "profileImage": "https://randomuser.me/api/portraits/men/8.jpg",
+          "countryFlag": "https://flagcdn.com/w320/es.png"
+        },
+        {
+          "name": "Amelia Clark",
+          "profileImage": "https://randomuser.me/api/portraits/women/10.jpg",
+          "countryFlag": "https://flagcdn.com/w320/gb.png"
+        },
+        {
+          "name": "Carlos Silva",
+          "profileImage": "https://randomuser.me/api/portraits/men/9.jpg",
+          "countryFlag": "https://flagcdn.com/w320/br.png"
+        }
+      ]
+    }
+  ]
+}
