@@ -5,6 +5,7 @@ import MicroPhones from 'react-native-vector-icons/FontAwesome5';
 import FilterMenu from 'react-native-vector-icons/Entypo';
 
 const Category = () => {
+  
   const width = Dimensions.get('window').width;
   const [data, setData] = useState('');
   const data2 = require('../../assets/data.json');
@@ -13,7 +14,7 @@ const Category = () => {
   const [filteredData, setFilteredData] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
 
-  
+
   useEffect(() => {
     const allUsers = data2.categories.flatMap((category) => category.people);
     setData(allUsers);
